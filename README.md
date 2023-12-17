@@ -4,8 +4,7 @@ A simple canvas Javascript game inspired by Chrome dinosaur game and Neko Atsume
 
 ## How to play
 
-The control of the game is the space bar. The game begins when you press the space button. You can control how high you want to jump by holding it or you can  make shorter jumps by holding the space for shorter period of time. The game can be enjoyed on variety of devices such as mobile and tablet on portait or landscape viewpoint. The control for mobile and tablet is tapping the screen instead of the space button. The longer you hold the screen, the higher Peach will jump and the shorter you hold the screen, the shorter Peach will jump. 
-
+The game is controlled using the space bar, and it starts when you press this key. You can adjust the height of your jump by holding down the space bar: a longer press results in a higher jump, while a shorter press leads to a shorter jump. The game is compatible with various devices, including mobile phones and tablets, in both portrait and landscape modes. For mobile and tablet users, control is achieved by tapping the screen instead of using the space bar. Holding the screen for a longer duration will make Peach jump higher, and holding it for a shorter duration will result in a shorter jump.
 
 ## Authors
 
