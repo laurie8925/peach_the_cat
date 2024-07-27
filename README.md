@@ -1,6 +1,7 @@
 # Peach the Cat - Don't get Distracted
 
 A simple canvas Javascript game inspired by Chrome dinosaur game and Neko Atsume game. 
+Try out the game here: [Live game](https://laurieyeh.com/peach-the-cat/)
 
 ## How to play
 
